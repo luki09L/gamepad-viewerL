@@ -12,7 +12,7 @@
 }
 
 .ds4.disconnected div {
-    display: none;
+    display: block;
 }
 
 .ds4 .triggers {
